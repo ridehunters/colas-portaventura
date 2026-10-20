@@ -1,0 +1,45 @@
+name: Registro de colas
+
+on:
+  schedule:
+    # Cada 15 minutos de 08:00 a 22:59 UTC, que es de 10:00 a 00:59 en verano
+    # y de 09:00 a 23:59 en invierno (hora de Madrid). 60 ejecuciones al día.
+    - cron: "*/15 8-22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: registro-colas
+  cancel-in-progress: false
+
+jobs:
+  registrar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Instalar requests
+        run: pip install -r requirements.txt
+
+      - name: Consultar tiempos de espera
+        run: python registro/registrar_colas.py
+
+      - name: Guardar el CSV si ha cambiado
+        run: |
+          if [ -d data/historico ]; then git add data/historico; fi
+          if git diff --cached --quiet; then
+            echo "Sin datos nuevos."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Registro de colas $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase
+          git push
