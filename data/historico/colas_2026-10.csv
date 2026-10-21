@@ -318,3 +318,6 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-10-21T19:40:03Z,Ferrari Land,77fdd088-fea9-48c6-8ddb-65b07d1152ca,Crazy Pistons,CLOSED,,2026-10-21T19:20:24.713Z
 2026-10-21T19:40:03Z,Ferrari Land,85df534a-e2ff-42f2-ac7f-6e5e51e223a9,Kid's Tower,OPERATING,0,2026-10-21T19:20:24.723Z
 2026-10-21T19:40:03Z,Ferrari Land,96f7ca72-ce9a-4959-891d-082b2e0f48c8,Racing Legends,OPERATING,10,2026-10-21T19:20:24.680Z
+2026-10-21T20:07:34Z,Ferrari Land,29712555-d09a-4c2c-b69b-11ba15ed7652,Maranello Grand Race,OPERATING,10,2026-10-21T19:50:25.547Z
+2026-10-21T20:07:34Z,Ferrari Land,4c3ef57b-2e92-4714-bdfd-abb0d8b804a8,Red Force,OPERATING,20,2026-10-21T19:50:25.557Z
+2026-10-21T20:07:34Z,Ferrari Land,77fdd088-fea9-48c6-8ddb-65b07d1152ca,Crazy Pistons,OPERATING,10,2026-10-21T19:50:25.567Z
