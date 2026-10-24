@@ -1433,3 +1433,9 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-10-24T20:50:17Z,Ferrari Land,77fdd088-fea9-48c6-8ddb-65b07d1152ca,Crazy Pistons,CLOSED,,2026-10-24T20:25:38.111Z
 2026-10-24T20:50:17Z,Ferrari Land,85df534a-e2ff-42f2-ac7f-6e5e51e223a9,Kid's Tower,CLOSED,,2026-10-24T20:25:38.120Z
 2026-10-24T20:50:17Z,Ferrari Land,d2cc478a-becc-48b6-8887-7bb8a5b85b10,Junior Championship,CLOSED,,2026-10-24T20:25:38.067Z
+2026-10-24T21:13:33Z,PortAventura Park,079a2938-39fb-4056-80bc-5df297ec3ab4,Hurakan Condor,CLOSED,,2026-10-24T20:54:42.778Z
+2026-10-24T21:13:33Z,PortAventura Park,0db51321-65cd-4cf7-a4b3-0032791d171d,Mariposas Saltarinas,CLOSED,,2026-10-24T20:54:42.759Z
+2026-10-24T21:13:33Z,PortAventura Park,bb756402-8b62-4ca4-8d66-eb2efbf10ef9,Shambhala,CLOSED,,2026-10-24T20:54:42.769Z
+2026-10-24T21:13:33Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,60,2026-10-24T20:54:42.787Z
+2026-10-24T21:13:33Z,Ferrari Land,4c3ef57b-2e92-4714-bdfd-abb0d8b804a8,Red Force,CLOSED,,2026-10-24T20:54:42.806Z
+2026-10-24T21:13:33Z,Ferrari Land,c7e27468-202c-498d-8cbc-b2290523cfc7,Flying Dreams,CLOSED,,2026-10-24T20:54:42.797Z
