@@ -8537,3 +8537,57 @@ timestamp_utc,parque,atraccion_id,atraccion,abierta,espera_min,last_updated
 2026-10-28T17:57:24Z,Ferrari Land,6858,Racing Legends,True,60,2026-10-28T17:56:45.000Z
 2026-10-28T17:57:24Z,Ferrari Land,6854,Red Force,True,90,2026-10-28T17:56:45.000Z
 2026-10-28T17:57:24Z,Ferrari Land,6856,Thrill Towers,True,60,2026-10-28T17:56:45.000Z
+2026-10-28T18:33:53Z,PortAventura Park,12115,Angkor,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,586,Armadillos,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,13357,Buffalo Rodeo,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,588,Canoes,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,589,Carousel,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,590,Cobra imperial,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,12142,Coco Piloto,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,592,Crazy Barrels,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,593,Dragon Khan,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,595,El Diablo - Tren De La Mina,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,597,El Salto de Blas,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,598,El Secreto de los Mayas,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,600,Furius Baco,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,601,Grand Canyon Rapids,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,602,Hurakan Condor,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,14388,Kiddie Balloons,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,12144,Kiddie Dragons,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,14387,Kiddie Kities,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,12140,Kontiki,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,605,La Granja de Elmo,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,608,Los Potrillos,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,609,Magic Fish,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,17532,Makamanu Summit,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,610,Mariposas Saltarinas,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,596,Penitence Station,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,613,Serpiente Emplumada,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,615,Shambhala,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,616,Silver River Flume,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,617,Stampida,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,13397,Street Mission,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,618,Tami - Tami,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,619,Tea Cups,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,13380,Templo del Fuego,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,620,Tomahawk,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,621,Tutuki Splash,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,15404,ULUM: El despertar jurásico,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,12121,Uncharted,True,50,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,622,VolPaiute,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,623,Waikiki,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,625,Wild Buffalos,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,PortAventura Park,626,Yucatán,False,0,2026-10-28T18:31:44.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6867,Champions Race,True,15,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6864,Crazy Pistons,True,15,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,12540,Ferrari Land Gallery,True,0,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,13393,Flying Dreams,True,50,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6868,Flying Race,True,10,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6860,Junior Championship,True,10,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6865,Junior Red Force,True,35,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,12164,Kid's Tower,True,35,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6857,Maranello Grand Race,True,90,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,13747,Pole Position Challenge,False,0,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6858,Racing Legends,True,60,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6854,Red Force,True,90,2026-10-28T18:31:47.000Z
+2026-10-28T18:33:53Z,Ferrari Land,6856,Thrill Towers,True,60,2026-10-28T18:31:47.000Z
