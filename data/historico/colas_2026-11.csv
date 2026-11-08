@@ -1657,3 +1657,6 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-08T19:30:04Z,Ferrari Land,08dc63af-eed7-4e79-82d3-c92bee5a18b0,Thrill Towers,OPERATING,30,2026-11-08T19:21:29.337Z
 2026-11-08T19:30:04Z,Ferrari Land,4c3ef57b-2e92-4714-bdfd-abb0d8b804a8,Red Force,OPERATING,40,2026-11-08T19:21:29.347Z
 2026-11-08T19:30:04Z,Ferrari Land,77fdd088-fea9-48c6-8ddb-65b07d1152ca,Crazy Pistons,OPERATING,0,2026-11-08T19:21:29.358Z
+2026-11-08T20:10:06Z,Ferrari Land,08dc63af-eed7-4e79-82d3-c92bee5a18b0,Thrill Towers,OPERATING,10,2026-11-08T19:51:54.172Z
+2026-11-08T20:10:06Z,Ferrari Land,29712555-d09a-4c2c-b69b-11ba15ed7652,Maranello Grand Race,OPERATING,20,2026-11-08T19:51:54.159Z
+2026-11-08T20:10:06Z,Ferrari Land,30263ba6-740c-47be-84a5-daa917c097af,Flying Race,OPERATING,0,2026-11-08T19:51:54.184Z
