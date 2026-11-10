@@ -1778,3 +1778,5 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-09T17:38:28Z,PortAventura Park,ec42d9df-1f81-4c22-af3f-e7e1e1fcfd8b,Crazy Barrels,CLOSED,,2026-11-09T17:24:59.321Z
 2026-11-09T17:38:28Z,PortAventura Park,fa98c0ee-2452-4ae1-88b6-84b9e0a9a590,Dragon Khan,CLOSED,,2026-11-09T17:24:59.175Z
 2026-11-09T17:38:28Z,PortAventura Park,ff07d3a9-a4ec-44e0-9411-874c7dc18061,El Diablo - Tren De La Mina,CLOSED,,2026-11-09T17:24:59.239Z
+2026-11-10T09:44:31Z,PortAventura Park,0db51321-65cd-4cf7-a4b3-0032791d171d,Mariposas Saltarinas,OPERATING,0,2026-11-10T09:30:12.531Z
+2026-11-10T09:44:31Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,CLOSED,,2026-11-09T17:54:56.378Z
