@@ -1876,3 +1876,7 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-11T12:37:45Z,PortAventura Park,c7e41cd9-e106-4685-9a7a-75e39f65972f,Street Mission,OPERATING,0,2026-11-11T11:54:52.370Z
 2026-11-11T12:37:45Z,PortAventura Park,d4a6cf73-4ddf-4729-b782-07e054fa76f9,Furius Baco,OPERATING,5,2026-11-11T11:54:52.348Z
 2026-11-11T12:37:45Z,PortAventura Park,ff07d3a9-a4ec-44e0-9411-874c7dc18061,El Diablo - Tren De La Mina,OPERATING,0,2026-11-11T11:54:52.390Z
+2026-11-11T13:53:41Z,PortAventura Park,bb756402-8b62-4ca4-8d66-eb2efbf10ef9,Shambhala,OPERATING,0,2026-11-11T12:54:53.021Z
+2026-11-11T13:53:41Z,PortAventura Park,d4a6cf73-4ddf-4729-b782-07e054fa76f9,Furius Baco,CLOSED,,2026-11-11T12:54:53.009Z
+2026-11-11T13:53:41Z,PortAventura Park,ec42d9df-1f81-4c22-af3f-e7e1e1fcfd8b,Crazy Barrels,OPERATING,0,2026-11-11T12:54:53.030Z
+2026-11-11T13:53:41Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,5,2026-11-11T13:24:53.408Z
