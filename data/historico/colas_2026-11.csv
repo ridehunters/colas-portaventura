@@ -1880,3 +1880,8 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-11T13:53:41Z,PortAventura Park,d4a6cf73-4ddf-4729-b782-07e054fa76f9,Furius Baco,CLOSED,,2026-11-11T12:54:53.009Z
 2026-11-11T13:53:41Z,PortAventura Park,ec42d9df-1f81-4c22-af3f-e7e1e1fcfd8b,Crazy Barrels,OPERATING,0,2026-11-11T12:54:53.030Z
 2026-11-11T13:53:41Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,5,2026-11-11T13:24:53.408Z
+2026-11-11T14:42:43Z,PortAventura Park,079a2938-39fb-4056-80bc-5df297ec3ab4,Hurakan Condor,OPERATING,0,2026-11-11T14:25:17.837Z
+2026-11-11T14:42:43Z,PortAventura Park,3348d36a-9df0-42c7-bdf1-cf32ee60420d,El Secreto de los Mayas,OPERATING,0,2026-11-11T14:25:17.780Z
+2026-11-11T14:42:43Z,PortAventura Park,d4a6cf73-4ddf-4729-b782-07e054fa76f9,Furius Baco,OPERATING,0,2026-11-11T13:54:39.589Z
+2026-11-11T14:42:43Z,PortAventura Park,eb8ffaea-27b7-47a9-9deb-de2b92ff7306,La Granja de Elmo,OPERATING,0,2026-11-11T14:25:17.827Z
+2026-11-11T14:42:43Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,10,2026-11-11T14:25:17.847Z
