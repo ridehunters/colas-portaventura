@@ -1952,3 +1952,7 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-12T15:53:56Z,PortAventura Park,c7e41cd9-e106-4685-9a7a-75e39f65972f,Street Mission,CLOSED,,2026-11-12T15:29:57.265Z
 2026-11-12T15:53:56Z,PortAventura Park,d4a6cf73-4ddf-4729-b782-07e054fa76f9,Furius Baco,OPERATING,0,2026-11-12T15:29:57.244Z
 2026-11-12T15:53:56Z,PortAventura Park,eb8ffaea-27b7-47a9-9deb-de2b92ff7306,La Granja de Elmo,CLOSED,,2026-11-12T15:00:20.033Z
+2026-11-12T16:49:21Z,PortAventura Park,3348d36a-9df0-42c7-bdf1-cf32ee60420d,El Secreto de los Mayas,OPERATING,0,2026-11-12T15:59:59.172Z
+2026-11-12T16:49:21Z,PortAventura Park,c7e41cd9-e106-4685-9a7a-75e39f65972f,Street Mission,OPERATING,0,2026-11-12T15:59:59.203Z
+2026-11-12T16:49:21Z,PortAventura Park,d4a6cf73-4ddf-4729-b782-07e054fa76f9,Furius Baco,OPERATING,10,2026-11-12T15:59:59.192Z
+2026-11-12T16:49:21Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,10,2026-11-12T16:29:57.366Z
