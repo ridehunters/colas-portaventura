@@ -2848,3 +2848,5 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-17T12:33:15Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,5,2026-11-17T12:10:27.968Z
 2026-11-17T13:54:03Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,0,2026-11-17T12:40:34.136Z
 2026-11-17T13:54:03Z,PortAventura Park,fa98c0ee-2452-4ae1-88b6-84b9e0a9a590,Dragon Khan,CLOSED,,2026-11-17T13:40:27.709Z
+2026-11-17T14:46:45Z,PortAventura Park,ec42d9df-1f81-4c22-af3f-e7e1e1fcfd8b,Crazy Barrels,CLOSED,,2026-11-17T14:40:34.062Z
+2026-11-17T14:46:45Z,PortAventura Park,fa98c0ee-2452-4ae1-88b6-84b9e0a9a590,Dragon Khan,OPERATING,0,2026-11-17T14:10:31.923Z
