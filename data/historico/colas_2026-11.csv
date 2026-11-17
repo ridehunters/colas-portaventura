@@ -2839,3 +2839,6 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-17T10:50:37Z,PortAventura Park,eb8ffaea-27b7-47a9-9deb-de2b92ff7306,La Granja de Elmo,OPERATING,0,2026-11-17T10:10:30.861Z
 2026-11-17T10:50:37Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,0,2026-11-17T10:10:30.904Z
 2026-11-17T10:50:37Z,PortAventura Park,fa98c0ee-2452-4ae1-88b6-84b9e0a9a590,Dragon Khan,OPERATING,0,2026-11-17T10:40:34.131Z
+2026-11-17T11:38:33Z,PortAventura Park,b312f0e7-aef9-4454-8a68-da7ce4f332b3,Grand Canyon Rapids,OPERATING,0,2026-11-17T11:10:27.795Z
+2026-11-17T11:38:33Z,PortAventura Park,c7e41cd9-e106-4685-9a7a-75e39f65972f,Street Mission,CLOSED,,2026-11-17T11:10:27.769Z
+2026-11-17T11:38:33Z,PortAventura Park,ff07d3a9-a4ec-44e0-9411-874c7dc18061,El Diablo - Tren De La Mina,OPERATING,0,2026-11-17T11:10:27.784Z
