@@ -2881,3 +2881,6 @@ timestamp_utc,parque,atraccion_id,atraccion,status,espera_min,last_updated
 2026-11-18T10:51:46Z,PortAventura Park,efe13722-66c6-4367-9818-aad3f5e04f3f,Uncharted,OPERATING,10,2026-11-18T10:19:59.329Z
 2026-11-18T10:51:46Z,PortAventura Park,fa98c0ee-2452-4ae1-88b6-84b9e0a9a590,Dragon Khan,OPERATING,0,2026-11-18T10:19:59.296Z
 2026-11-18T10:51:46Z,PortAventura Park,ff07d3a9-a4ec-44e0-9411-874c7dc18061,El Diablo - Tren De La Mina,OPERATING,0,2026-11-18T10:19:59.308Z
+2026-11-18T11:49:24Z,PortAventura Park,1730c645-03a8-4c51-b855-426d77ec8c00,Canoes,CLOSED,,2026-11-18T11:19:56.681Z
+2026-11-18T11:49:24Z,PortAventura Park,bb756402-8b62-4ca4-8d66-eb2efbf10ef9,Shambhala,OPERATING,5,2026-11-18T11:19:56.705Z
+2026-11-18T11:49:24Z,PortAventura Park,eb8ffaea-27b7-47a9-9deb-de2b92ff7306,La Granja de Elmo,OPERATING,0,2026-11-18T11:19:56.695Z
